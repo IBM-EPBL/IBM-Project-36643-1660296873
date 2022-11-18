@@ -1,0 +1,4 @@
+anaconda environment
+pycharm
+flask
+jupyter notebook
